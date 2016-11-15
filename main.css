@@ -22,15 +22,10 @@ p {
 }
 
 h2 {
-    color: indianred;
+    color: cadetblue;
     text-align: center;
-    font-size: 50px;
-    font-family: monospace
-    color: white;
-    padding: 14px 25px;
-    text-align: center; 
-    text-decoration: none;
-    display: inline-block;
+    font-size: 40px;
+    font-family: monospace;
 }
 
 img {
